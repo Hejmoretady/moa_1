@@ -20,7 +20,6 @@
     "_comment3": "URL adresa, na kterou se aplikace spustí",
     "start_url": "/index.html",          
   
-    "_comment4": "Zobrazení aplikace bez prvků prohlížeče",
     "display": "standalone",             
   
     "_comment5": "Volitelné položky",
